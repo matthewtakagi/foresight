@@ -122,7 +122,6 @@ Actual   N  [892   43   12    3]
 foresight/
 │
 ├── app.py                          # Main Streamlit application
-├── requirements.txt                # Python dependencies
 ├── README.md                       # This file
 │
 ├── models/                         # Trained ML models
