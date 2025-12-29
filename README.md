@@ -8,7 +8,7 @@ Matthew Takagi and Jayden Lee, UC Berkeley
 > **Winner of the [7th Annual Datathon for Social Good](https://swamp-timer-f8d.notion.site/7th-Annual-Datathon-For-Social-Good-2a2cc309772580e38903cd2b11ef5007)**  
 > An early warning system that predicts patient deterioration 6-8 hours before critical events, potentially preventing 20,000+ deaths annually.
 
-![Foresight Dashboard](./assets/dashboard_screenshot.png)
+![Foresight Dashboard](./assets/dashboard-screenshot.png)
 *Real-time risk prediction with intervention simulation and fragility analysis*
 
 ---
